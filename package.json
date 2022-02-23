@@ -1,7 +1,7 @@
 {
   "name": "configurable-currency-converter-cli",
   "version": "0.0.0",
-  "description": "## Introduction",
+  "description": "As part of this exercise you will create a configurable command-line based currency conversion tool.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
