@@ -10,6 +10,7 @@ The exercise contains a small amount of 'starter code'. It has also made a numbe
 
 1. The value of each currency must be expressed in relation to US Dollars (USD). Although this may seem confusing it will actually simplify the process of registering new currencies and converting between them.
 2. The program is 'pre-loaded' with the following currencies: USD; CAD; and GBP. You can see how this data has been modeled within `src/converter.js` file.
+3. Aside from the 'pre-loaded' currencies, the program does not _save_ the currency data.
 
 That's all for now. Please read the sections below closely _before_ you begin this exercise.
 
@@ -100,6 +101,7 @@ The following is a _suggested_ approach, although you are of course free to tack
 - Identify the exercise's major sub-problems (eg. capturing user input, validating the user input, passing information from the command line interface to the converter logic).
 - Ensure that you can solve each sub-problem _in isolation_.
 - Bring your sub-problem solutions together to 'build up' the program functionality.
+- Make sure to test and commit your work often.
 
 ## Success Criteria
 
