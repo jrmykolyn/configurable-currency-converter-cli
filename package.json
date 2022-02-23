@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Jesse R Mykolyn",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
 }
